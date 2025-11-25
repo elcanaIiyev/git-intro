@@ -1,1 +1,10 @@
+feature-improvement
 Chnge from feature branch
+ feature-improvement
+HEAD
+Message from main branch
+Message from feature 
+ HEAD
+Message from main branch
+Message from feature branch main
+feature-gree main
